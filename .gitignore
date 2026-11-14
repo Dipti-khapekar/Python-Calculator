@@ -1,0 +1,39 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Testing related files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
