@@ -28,7 +28,7 @@ Git & GitHub
 
 📸 Preview
 
-![Python Calculator](image.png)
+[Python Calculator](image.png)
 
 
 🚀 How to Run
