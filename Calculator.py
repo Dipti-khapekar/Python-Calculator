@@ -6,7 +6,6 @@ root.title("Python Calculator")
 root.geometry("450x650")
 root.resizable(False, False)
 root.configure(bg="#171717")
-root.configure(bg="#171717")
 
 expression = ""
 first_number = None
